@@ -1,0 +1,18 @@
+ALGORITHM
+Step 1: Start the application.
+Step 2: User logs in or registers a new account.
+Step 3: Display the home screen with options to add, view, edit, or delete events.
+Step 4: If the user selects Add Event,
+→ Prompt the user to enter event details such as title, date, time, description, and 
+category.
+Step 5: Save the event details in the database or local storage.
+Step 6: Schedule a notification or reminder based on the event time set by the user.
+Step 7: If the user selects View Events,
+→ Retrieve and display all stored events in a list or calendar view.
+Step 8: If the user selects Edit/Delete,
+→ Update or remove the selected event from the database.
+Step 9: At the scheduled time, trigger a notification alert reminding the user about the 
+event.
+Step 10: Allow users to mark events as completed or reschedule if needed.
+Step 11: Repeat steps as necessary for multiple events.
+Step 12: End.
